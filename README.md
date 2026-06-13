@@ -19,7 +19,7 @@ This repository contains the full replication package for the systematic review 
 
 ## Corpus Overview
 
-- **Search window:** January 2021 – March 2026  
+- **Search window:** January 2021 – May 2026  
 - **Databases:** Web of Science, Scopus, IEEE Xplore, ACM Digital Library  
 - **Final corpus:** 70 peer-reviewed articles after PRISMA-compliant screening  
 - **Variables coded per article:** Integration architecture typology (Type I–IV), validation approach, thematic cluster (C1–C14)
