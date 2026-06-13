@@ -1,6 +1,5 @@
 # Replication Data and Materials — Systematic Review: Hybrid ABM+SD+AI Approaches for Decision Making in Complex Systems (2021–2026)
 
-## [![DOI](https://zenodo.org/badge/DOI/10.xxxx/zenodo.xxxxxxx.svg)](https://doi.org/10.xxxx/zenodo.xxxxxxx)
 ## [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the full replication package for the systematic review article:
