@@ -4,7 +4,7 @@
 
 This repository contains the full replication package for the systematic review article:
 
-> **Leba, M., & Ionica, A.C.** (2026). *Agent-Based Modeling and System Dynamics Integrated with AI and Analytical Methods: A Systematic Review of Hybrid Approaches, Applications, and Future Directions for Decision Making in Complex Systems (2021–2026)*. *MDPI Systems* (under review).
+> **Samuil, I., Ionica, A.C., and Leba, M.** (2026). *Agent-Based Modeling and System Dynamics Integrated with AI and Analytical Methods: A Systematic Review of Hybrid Approaches, Applications, and Future Directions for Decision Making in Complex Systems (2021–2026)*. *MDPI Systems* (under review).
 
 ---
 
