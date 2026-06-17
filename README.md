@@ -13,7 +13,7 @@ This repository contains the full replication package for the systematic review 
 | File | Description |
 |---|---|
 | `Corpus.ris` | Full bibliographic reference file (RIS format) for all **70 articles** included in the systematic review, importable into Zotero, Mendeley, EndNote, or any reference manager |
-| `inter-rater-reliability.xlsx` | Inter-rater reliability workbook containing: raw dual-evaluator coding for a 20% systematic sample (N = 21 papers); Cohen's κ contingency tables for three variables; summary statistics; and a methodological note on the simulation procedure |
+| `inter-rater-reliability.xlsx` | Inter-rater reliability workbook containing: raw dual-evaluator coding for a 30% systematic sample (N = 21 papers); Cohen's κ contingency tables for three variables; summary statistics; and a methodological note on the simulation procedure |
 
 ---
 
@@ -26,7 +26,7 @@ This repository contains the full replication package for the systematic review 
 
 ## Inter-Rater Reliability
 
-Coding quality was assessed on a 20% systematic sample (N = 21 papers) across three categorical variables. Cohen's κ coefficients were estimated from corpus-distribution-based simulation (NumPy seed = 7):
+Coding quality was assessed on a 30% systematic sample (N = 21 papers) across three categorical variables. Cohen's κ coefficients were estimated from corpus-distribution-based simulation (NumPy seed = 7):
 
 | Variable | Agreements | κ | Interpretation |
 |---|---|---|---|
@@ -40,4 +40,4 @@ Coding quality was assessed on a 20% systematic sample (N = 21 papers) across th
 
 ## How to Use
 
-**Import the corpus into your reference manager:**
+**Import the corpus into your reference manager**
